@@ -8,10 +8,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>pr-cy-autotests</artifactId>
+    <artifactId>saucedemo-ui-autotests</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>pr-cy-autotests</name>
+    <name>Smoke and regression UI tests for SauceDemo</name>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
